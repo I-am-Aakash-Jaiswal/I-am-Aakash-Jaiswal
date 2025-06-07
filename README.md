@@ -16,7 +16,7 @@ I am a passionate Software Developer with ~2 years of experience in building res
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: JavaScript, C++, C
+- **Languages**: JavaScript, C++, C, Typescript
 - **Frontend**: React.js, React Native, Redux Toolkit, Tailwind CSS, Material UI
 - **Backend**: Node.js, Express.js, MongoDB, Firebase
 - **Dev Tools**: Git, GitHub, Postman, VS Code, Android Studio, Xcode
