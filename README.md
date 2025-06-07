@@ -4,6 +4,16 @@
 
 I am a passionate Software Developer with ~2 years of experience in building responsive, scalable, and high-performance applications. I specialize in React.js, React Native, and Node.js, and have led feature development for web and mobile platforms used by thousands of users.
 
+---
+
+## 📬 Contact Me
+
+- ✉️ Email: [j.akash0303@gmail.com](mailto:j.akash0303@gmail.com)
+- 🔗 LinkedIn: [itsaakashjaiswal](https://www.linkedin.com/in/itsaakashjaiswal/)
+- 💻 GitHub: [I-am-Aakash-Jaiswal](https://github.com/I-am-Aakash-Jaiswal)
+
+---
+
 ## 🔧 Tech Stack & Tools
 
 - **Languages**: JavaScript, C++, C
@@ -57,12 +67,5 @@ Maharaja Agrasen Institute of Technology, GGSIPU, New Delhi
 
 ---
 
-## 📬 Contact Me
-
-- ✉️ Email: [j.akash0303@gmail.com](mailto:j.akash0303@gmail.com)
-- 🔗 LinkedIn: [itsaakashjaiswal](https://www.linkedin.com/in/itsaakashjaiswal/)
-- 💻 GitHub: [I-am-Aakash-Jaiswal](https://github.com/I-am-Aakash-Jaiswal)
-
----
 
 > 📌 *Currently looking for exciting frontend or full stack opportunities. Open to collaborate on impactful projects!*
