@@ -70,13 +70,12 @@ Maharaja Agrasen Institute of Technology, GGSIPU, New Delhi
 
 > 📌 *Currently looking for exciting frontend or full stack opportunities. Open to collaborate on impactful projects!*
 
-
-<!-- GitHub Stats -->
-![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-am-Aakash-Jaiswal&show_icons=true&theme=tokyonight&count_private=true)
-
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Aakash-Jaiswal&layout=compact&theme=tokyonight)
 
 <!-- GitHub Streaks -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=I-am-Aakash-Jaiswal&theme=tokyonight&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=I-am-Aakash-Jaiswal&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
