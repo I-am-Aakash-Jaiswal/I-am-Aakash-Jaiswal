@@ -1,74 +1,74 @@
 # 👋 Hi, I'm Aakash Jaiswal
 
-**Frontend Developer | React & React Native Specialist | Full Stack Enthusiast**
+**Frontend Developer | React & React Native Engineer | Full Stack Enthusiast**
 
-I am a passionate Software Developer with ~2 years of experience in building responsive, scalable, and high-performance applications. I specialize in React.js, React Native, and Node.js, and have led feature development for web and mobile platforms used by thousands of users.
+I'm a Software Engineer with ~2 years of experience designing and building responsive, scalable, and high-performance applications. I specialize in crafting clean and user-centric interfaces using **React.js** and **React Native**, and have successfully led multiple product releases for both web and mobile platforms.
 
 ---
 
-## 📬 Contact Me
+## 📫 Contact Me
 
-- ✉️ Email: [j.akash0303@gmail.com](mailto:j.akash0303@gmail.com)
-- 🔗 LinkedIn: [itsaakashjaiswal](https://www.linkedin.com/in/itsaakashjaiswal/)
+- 📧 Email: [j.akash0303@gmail.com](mailto:j.akash0303@gmail.com)  
+- 🔗 LinkedIn: [itsaakashjaiswal](https://www.linkedin.com/in/itsaakashjaiswal/)  
 - 💻 GitHub: [I-am-Aakash-Jaiswal](https://github.com/I-am-Aakash-Jaiswal)
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, C++, C, Typescript
-- **Frontend**: React.js, React Native, Redux Toolkit, Tailwind CSS, Material UI
-- **Backend**: Node.js, Express.js, MongoDB, Firebase
-- **Dev Tools**: Git, GitHub, Postman, VS Code, Android Studio, Xcode
-- **Cloud & DB**: Firebase, MongoDB, AWS, SQL
-- **Other Tools**: Mixpanel, Figma, REST APIs, GenAI
+- **Languages**: JavaScript, TypeScript, C++, C  
+- **Frontend**: React.js, React Native, Redux Toolkit, Tailwind CSS, Material UI  
+- **Backend**: Node.js, Express.js, MongoDB, Firebase  
+- **Dev Tools**: Git, GitHub, Postman, VS Code, Android Studio, Xcode  
+- **Cloud & DB**: Firebase, MongoDB, AWS, SQL  
+- **Others**: Mixpanel, REST APIs, Figma, GenAI
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Software Development Engineer - Frontend  
+### 🔹 Software Development Engineer – Frontend  
 **Flickd (formerly Snoodify)** | New Delhi | *Sept 2023 – Present*  
-- Architecting cross-platform mobile apps (React Native + Redux + TanStack Query)
-- Boosted user retention 2x via deep linking & real-time video playback
-- Built and deployed multiple web portals (Admin, Brand, Consumer) in React.js
-- Led 2+ interns and improved release cycles by 30%
+- Designed and maintained a **cross-platform social-commerce app** using React Native, Redux Toolkit, and TanStack Query  
+- Increased **user retention by 2x** by implementing deep linking, real-time video playback, and push notifications  
+- Developed and deployed **three major web platforms** (Admin, Brand, and Consumer dashboards) using React and Tailwind, improving internal ops by 40%  
+- Led a team of interns, conducting code reviews, sprint planning, and mentoring, which **boosted delivery velocity by 30%**  
+- Managed end-to-end mobile release lifecycle including version upgrades, builds, and App Store / Play Store deployment  
 
-### 🔹 Frontend Intern  
+### 🔹 Frontend Developer Intern  
 **Shiryam Technologies** | Remote | *Feb 2023 – May 2023*  
-- Built 20+ reusable UI components with Material UI
-- Enhanced dynamic rendering and API integration performance
+- Built and optimized **20+ reusable UI components** using Material UI  
+- Improved UI responsiveness and integrated **dynamic filtering/search features** for seamless UX  
+- Enhanced state management and API handling using Redux
 
 ---
 
 ## 🚀 Projects
 
-### 🛍️ Ecomm Marketplace [MERN Stack]  
-RESTful APIs, Firebase Auth, responsive frontend with React + Tailwind
+### 🛍️ Ecomm Marketplace *(MERN Stack)*  
+- Built complete **e-commerce platform backend** with RESTful APIs for brands, carts, orders  
+- Integrated **Firebase Auth** and optimized UI using React and Tailwind for smooth user journey  
 
-### 🔍 My-Jobs [React Native]  
+### 🔎 My-Jobs *(React Native)*  
 [GitHub Repo](https://github.com/I-am-Aakash-Jaiswal/MyJobs-React_Native)  
-Cross-platform job search app using RapidAPI (Glassdoor & LinkedIn job listings)
+- Developed a cross-platform **developer job search app** using React Native and JSearch Rapid API  
+- Aggregated real-time job listings from Glassdoor & LinkedIn
 
 ---
 
-## 🏆 Leadership & Awards
+## 🏅 Leadership & Achievements
 
-- **President**, Expressions (Cultural Club), MAIT — Led 70+ members & organized campus fests
-- **Event Head**, TnM, MAIT — Managed 6+ inter-college competitions, 10,000+ footfall
+- 🎓 **President**, Expressions Club (MAIT): Led 70+ members; orchestrated multiple cultural festivals and campus-wide events  
+- 🏆 **Event Head**, Tech & Management Fest (TnM): Oversaw 6+ inter-college competitions with 10,000+ attendees
 
 ---
 
 ## 🎓 Education
 
-**B.Tech, Information Technology**  
+**B.Tech in Information Technology**  
 Maharaja Agrasen Institute of Technology, GGSIPU, New Delhi  
 *CGPA: 8.81/10 (2020 – 2024)*
 
 ---
 
-
-> 📌 *Currently looking for exciting frontend or full stack opportunities. Open to collaborate on impactful projects!*
-
-
-
+> 💼 *Actively seeking Frontend / Full Stack opportunities — open to exciting roles and meaningful collaborations!*
