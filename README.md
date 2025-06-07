@@ -79,7 +79,7 @@ Maharaja Agrasen Institute of Technology, GGSIPU, New Delhi
 ![Aakash's GitHub Contributions](https://ghchart.rshah.org/0f9d58/I-am-Aakash-Jaiswal)
 
 <!-- GitHub Stats Card -->
-![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-am-Aakash-Jaiswal&show_icons=true&theme=react&count_private=true&include_all_commits=true)
+![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-am-Aakash-Jaiswal
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=I-am-Aakash-Jaiswal&theme=react&hide_border=true)
