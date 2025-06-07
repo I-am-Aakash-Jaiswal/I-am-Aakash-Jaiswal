@@ -72,3 +72,18 @@ Maharaja Agrasen Institute of Technology, GGSIPU, New Delhi
 ---
 
 > 💼 *Actively seeking Frontend / Full Stack opportunities — open to exciting roles and meaningful collaborations!*
+
+## 📈 GitHub Activity Overview
+
+<!-- GitHub Contributions Graph -->
+![Aakash's GitHub Contributions](https://ghchart.rshah.org/0f9d58/I-am-Aakash-Jaiswal)
+
+<!-- GitHub Stats Card -->
+![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-am-Aakash-Jaiswal&show_icons=true&theme=react&count_private=true&include_all_commits=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=I-am-Aakash-Jaiswal&theme=react&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Aakash-Jaiswal&layout=compact&theme=react)
+
