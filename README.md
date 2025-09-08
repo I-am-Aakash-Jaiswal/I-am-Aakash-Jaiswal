@@ -17,8 +17,8 @@ I'm a Software Engineer with ~2 years of experience designing and building respo
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, TypeScript, C++, C  
-- **Frontend**: React.js, React Native, Redux Toolkit, Tailwind CSS, Material UI  
+- **Languages**: JavaScript, TypeScript, C++, C
+- **Frontend**: React.js, Next.js, React Native, Redux Toolkit, Tailwind CSS, Material UI  
 - **Backend**: Node.js, Express.js, MongoDB, Firebase  
 - **Dev Tools**: Git, GitHub, Postman, VS Code, Android Studio, Xcode  
 - **Cloud & DB**: Firebase, MongoDB, AWS, SQL  
