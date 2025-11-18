@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aakash Jaiswal
 
-**Frontend Developer | React & React Native Engineer | Full Stack Enthusiast**
+**Frontend Developer | React & React Native Engineer | Full Stack Enthusiast | GenAI**
 
 I'm a Software Engineer with ~2.5+ years of experience designing and building responsive, scalable, and high-performance applications. I specialize in crafting clean and user-centric interfaces using **React.js** and **React Native**, and have successfully led multiple product releases for both web and mobile platforms.
 
