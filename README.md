@@ -30,9 +30,9 @@ I'm a Software Engineer with ~2.5+ years of experience designing and building re
 
 ### 🔹 Software Development Engineer – Frontend  
 **Flickd (formerly Snoodify)** | New Delhi | *Sept 2023 – Present*  
-- Designed and maintained a **cross-platform social-commerce app** using React Native, Redux Toolkit, and TanStack Query  
-- Increased **user retention by 2x** by implementing deep linking, real-time video playback, and push notifications  
-- Developed and deployed **three major web platforms** (Admin, Brand, and Consumer dashboards) using React and Tailwind, improving internal ops by 40%  
+- Designed and maintained a **cross-platform social-commerce app** using React Native, Redux Toolkit, and TanStack Query.  
+- Increased **user retention by 2x** by implementing deep linking, real-time video playback, and push notifications.  
+- Developed and deployed **three major web platforms** (Admin, Brand, and Consumer dashboards) using React and Tailwind, improving internal ops by 40%.  
 - Led a team of interns, conducting code reviews, sprint planning, and mentoring, which **boosted delivery velocity by 30%**  
 - Managed end-to-end mobile release lifecycle including version upgrades, builds, and App Store / Play Store deployment  
 
