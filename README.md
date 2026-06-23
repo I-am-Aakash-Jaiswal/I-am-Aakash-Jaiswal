@@ -6,7 +6,6 @@ I'm a Software Engineer with ~2.5+ years of experience designing and building re
 - 📧 Email: [j.akash0303@gmail.com](mailto:j.akash0303@gmail.com)  
 - 🔗 LinkedIn: [itsaakashjaiswal](https://www.linkedin.com/in/itsaakashjaiswal/)  
 - 💻 GitHub: [I-am-Aakash-Jaiswal](https://github.com/I-am-Aakash-Jaiswal)
-- 📑 Resume : [Link to resume](https://drive.google.com/file/d/1wYtT3ARGAiLDcviyzdQAHSGUyiuwIcFY/view?usp=sharing)
 ---
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript
